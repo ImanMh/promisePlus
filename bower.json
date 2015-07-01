@@ -1,0 +1,22 @@
+{
+  "name": "promisePlus",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ImanMh/promisePlus",
+  "authors": [
+    "Iman Mohamadi <iman.mohamadi.dev@gmail.com>"
+  ],
+  "description": "A set of utility wrappers around promise pattern implementations of other libraries",
+  "keywords": [
+    "promise",
+    "utility",
+    "helper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
